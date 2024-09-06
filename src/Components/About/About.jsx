@@ -25,7 +25,7 @@ const skills = [
     { src: htmlIcon, alt: "HTML" },
     { src: cssIcon, alt: "CSS" },
     { src: boostrapIcon, alt: "Bootstrap" },
-    { src: Tailwind, alt: "Tailwind" },
+    { src: Tailwind, alt: "Tailwind css" },
     { src: shopify, alt: "Shopify" }
 ];
 
