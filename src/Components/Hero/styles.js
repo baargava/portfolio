@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.section`
-  padding-top: 15%;
+  padding-top: 12%;
   display: flex;
   justify-content:start;
   background: rgba(0,0,0,0);
@@ -64,9 +64,9 @@ ${'' /* // New added
   }
 
   @media(max-width: 600px){
-    margin-top: 35%;
+    margin-top: 15%;
   }
   @media(max-width: 480px){
-    margin-top: 45%;
+    margin-top: 25%;
   }
 `

@@ -16,8 +16,10 @@ export function Contact() {
 
     return (
         <Container id="contact">
-            <p>Find me here </p>
-            <motion.img
+            {/* <p>Find me here </p>
+            <img src={arrow} alt='arrow' style={{ width: '2%', height: '15px', marginTop: '0px', marginInline: '20px' }}
+            /> */}
+            {/* <motion.img
                 src={arrow}
                 alt='arrow'
                 style={{ width: '2%', height: '15px', marginTop: '0px', marginInline: '20px' }}
@@ -25,7 +27,7 @@ export function Contact() {
                 animate='visible'
                 variants={scaleVariants}
                 transition={{ duration: 0.5, type: 'spring', stiffness: 200 }} // Adjust the duration and stiffness as needed
-            />
+            /> */}
             <div className="social-media">
                 <a
                     href="https://www.linkedin.com/in/baargavaramgottam/"
