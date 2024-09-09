@@ -35,7 +35,7 @@ export function About() {
             <div className="about-text">
                 <h2>About me</h2>
                 <p>
-                    I'm a passionate Full Stack web developer with 2.2 years of experience in developing MERN Stack web applications with React Js, Express Js, Redux, React Native, Node Js, Mongo DB, JavaScript, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.
+                    I'm a passionate MERN Stack web developer with 2+ years of experience in developing web applications with React Js, Express Js, Redux, React Native, Node Js, Mongo DB, JavaScript, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.
                 </p>
                 <h3>Here are my main skills:
                 </h3>
