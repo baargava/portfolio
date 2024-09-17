@@ -52,8 +52,8 @@ export const DecoderEffect = ({ name }) => {
     }, [name]);
 
     return (
-        <div style={{ fontFamily: 'monospace', fontSize: '70px' }}>
-            I'm {decodedText}
+        <div className="mb-5 text-[7rem] lg:text-[12rem] leading-none tracking-tighter text-white font-black" >
+            {decodedText}
         </div>
     );
 };

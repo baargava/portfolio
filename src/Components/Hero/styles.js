@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.section`
   padding-top: 12%;
   display: flex;
-  justify-content:start;
+  justify-content:center;
   background: rgba(0,0,0,0);
   .hero-text{
     & > p{
