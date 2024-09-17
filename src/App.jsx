@@ -48,7 +48,7 @@ const App = () => {
                   },
                 },
                 particles: {
-                  color: { value: "#bae6fd" },
+                  color: { value: "#fff" },
                   links: {
                     color: "#ffffff",
                     distance: 150,
@@ -71,7 +71,7 @@ const App = () => {
                   size: { value: { min: 1, max: 5 } },
                 },
                 detectRetina: true,
-                background: { color: '#000', opacity: 0.1 },
+                background: { color: '#000', opacity: 0.5 },
               }}
             />
           )}
